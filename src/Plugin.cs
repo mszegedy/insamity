@@ -20,6 +20,13 @@ namespace Sam
         // Load any resources, such as sprites or sounds
         private void LoadResources(RainWorld rainWorld)
         {
+            Futile.atlasManager.LoadAtlas("atlases/EXtemplatearm");
+            Futile.atlasManager.LoadAtlas("atlases/EXtemplatebody");
+            Futile.atlasManager.LoadAtlas("atlases/EXtemplateears");
+            Futile.atlasManager.LoadAtlas("atlases/EXtemplateface");
+            Futile.atlasManager.LoadAtlas("atlases/EXtemplatehead");
+            Futile.atlasManager.LoadAtlas("atlases/EXtemplatehips");
+            Futile.atlasManager.LoadAtlas("atlases/EXtemplatelegs");
         }
     }
 }

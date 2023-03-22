@@ -1,9 +1,9 @@
 ﻿{
-	"id": "mszegedy.sam",
+"id": "mszegedy.sam",
 	"name": "Sam: Embrace the Insamity",
 	"version": "1",
 	"authors": "mszegedy",
-	"description": "Sam, scion of Programmercat.",
+	"description": "Sam, the slugcat who's trying its best.",
 	"requirements": [ "slime-cubed.slugbase" ],
 	"requirements_names": [ "SlugBase" ]
 }

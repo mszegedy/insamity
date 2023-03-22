@@ -1,10 +1,20 @@
 {
-	"id": "Sam",
-	"name": "Sam",
-	"description": "This is Sam. Sam loves you and is very sorry it isn't a better slugcat. It's trying its best.<LINE>Sam shows up right after Rivulet, and has cross-content with MSC.",
-	"features": {
-		"color": "afafaf",
-		"select_menu_scene": "Slugcat_Prototype",
-		"select_menu_scene_ascended": "Ghost_Prototype",
-	}
+    "id": "Sam",
+    "name": "Sam",
+    "description": "This is Sam. Sam loves you and is very sorry it isn't a better slugcat. It's trying its best.<LINE>Sam shows up right after Rivulet, and has cross-content with MSC.",
+    "features": {
+        "color": "7f7f7f",
+        "auto_grab_batflies": false,
+        "select_menu_scene": "Slugcat_Prototype",
+        "select_menu_scene_ascended": "Ghost_Prototype",
+        "lung_capacity": 1.5,
+        "diet": {
+            "base": "Red",
+            "plants": 0.25
+        },
+        "karma_cap": 0,
+        "start_room": "SL_AI",
+        "guide_overseer": 1,
+        "world_state": [ "Rivulet", "Yellow" ]
+    }
 }
