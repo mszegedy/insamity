@@ -20,7 +20,7 @@ offset any additional suffering caused by its mechanics.
 
 Practically every aspect of Rain World is heavily nerfed in some way as Sam, who
 was never really meant to be released into the wilds, and has a very hard time
-doing anything. But are core design goal for Sam was to make sure all modded
+doing anything. But a core design goal for Sam was to make sure all modded
 regions are accessible and playable as them, while still being a much more
 difficult experience than Programmercat.
 
